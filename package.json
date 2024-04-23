@@ -9,14 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@yudiel/react-qr-scanner": "^2.0.0-beta.3",
+    "googleapis": "^134.0.0",
+    "html5-qrcode": "^2.3.8",
+    "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.2"
+    "react-feather": "^2.0.10",
+    "react-helmet": "^6.1.0",
+    "react-modal": "^3.16.1",
+    "react-qr-scanner": "^1.0.0-alpha.11",
+    "sweetalert2": "^11.10.8"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.2"
+    "eslint-config-next": "14.2.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }
